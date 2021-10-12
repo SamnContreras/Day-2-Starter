@@ -1,0 +1,10 @@
+const x = 2;
+const y = 2;
+
+if(x > y) {
+  console.log(x);
+} else if(x < y); {
+  console.log(y);
+} else if(x === y); {
+  console.log("They're equal");
+} 
